@@ -2,7 +2,7 @@ const { Client } = require('discord.js-selfbot-v13');
 const client = new Client({ checkUpdate: false });
 
 // ================= CONFIGURACIÓN =================
-const TOKEN = 'MTQ3OTc1NTkzMDQ4MzY5MTYxMA.GBQvxW.Pt854ifzIl8d70wBl9mQErzuHqTufGrtiW4HTc'; // Recuerda que el token cambia si cambiaste clave
+const TOKEN = 'MTQ3OTc1NTkzMDQ4MzY5MTYxMA.G7zzXC.CBeZb8MojNHXKqFdVwfi4u0h7DbEg-J3jRk41Y'; // Recuerda que el token cambia si cambiaste clave
 const ID_CANAL = '1484027185961369770'; 
 
 const MENSAJES = [
